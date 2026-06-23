@@ -50,5 +50,4 @@ python advanced_sniffer.py
 * Basic threat detection concepts
 * Python scripting for cybersecurity
 
-```
-```
+
